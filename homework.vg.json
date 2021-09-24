@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Gold Reserves of Countries Worldwide in 2020",
+    "text": "Gold Reserves of Countries (USD) in 2020",
     "align": "center"
   },
   "width": 800,
